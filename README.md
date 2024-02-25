@@ -7,4 +7,4 @@ Links directos.
 2. [QUIZ2](https://colab.research.google.com/drive/1-psIytVRn2OGWN5zj96wdqMkvrSUUX81?usp=sharing)
 3. [QUIZ3](https://colab.research.google.com/drive/1-psIytVRn2OGWN5zj96wdqMkvrSUUX81?usp=sharing)
 ## Laboratorios
-5. [LAB 2](https://colab.research.google.com/drive/1YODxa1fyugYVuv_2gS7BA-IciaCu4fBM?usp=sharing)
+1. [LAB 2](https://colab.research.google.com/drive/1YODxa1fyugYVuv_2gS7BA-IciaCu4fBM?usp=sharing)

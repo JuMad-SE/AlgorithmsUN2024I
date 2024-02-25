@@ -1,4 +1,5 @@
-Archivos: Juan David Madrid Contreras (estudiante curso algoritmos)
+Juan David Madrid Contreras (estudiante curso algoritmos)  
+
 Links directos.
 
 ## Quices

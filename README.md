@@ -1,6 +1,6 @@
-Juan David Madrid Contreras (estudiante curso algoritmos)  
+Juan David Madrid Contreras (estudiante curso algoritmos)   #17 
 
-Links directos.
+Links directos colab.
 
 ## Quices
 1. [QUIZ1](https://colab.research.google.com/drive/1_dbAfmQx8qItIKcR-akDUCfhSbrNxQji?usp=sharing)

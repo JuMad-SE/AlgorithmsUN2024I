@@ -1,4 +1,4 @@
-Juan David Madrid Contreras (estudiante curso algoritmos)   #17 
+Juan David Madrid Contreras (estudiante curso algoritmos)   #17 lista #5 grupo
 
 Links directos colab.
 

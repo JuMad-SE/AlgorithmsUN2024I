@@ -16,3 +16,4 @@ Links directos colab.
 7. [LAB 6 FIB](https://colab.research.google.com/drive/1qy5Mws49Xy7UYOK_V7a6AbS5LzfKap9M?usp=sharing)
 8. [LAB 7](https://colab.research.google.com/drive/1MnWGYSvDb-9No5b0mlAZJ3gpXIYpgVD8?authuser=1)
 9. [LAB ML](https://colab.research.google.com/drive/1n41Wl_EMlGZAm7kRbtxrdtT37yDwqKlu?authuser=1)
+10. [LAB 8](https://colab.research.google.com/drive/1HFO9nmM5o5S_C6HtrYrne5HQsS3bCe8a?authuser=1#scrollTo=kfNIyT2A2Rhf)
